@@ -1,0 +1,8 @@
+﻿<Window x:Class="_4___Bodies.MainWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Bodies" Width="1920" Height="1080">
+
+	<Canvas x:Name="KinectCanvas" Background="Black">
+	</Canvas>
+</Window>
